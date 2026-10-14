@@ -21,4 +21,6 @@ Scientific conference paper presented at the **AQTR Student Forum (Automation, Q
 
 ## 🎓 Acknowledgments
 
-Special thanks to **Conf. dr. ing. Roxana Rusu-Both** for the continuous guidance, academic review, and valuable insights throughout the development of this research work.
+## 🎓 Acknowledgments
+
+I express my deepest gratitude and sincere appreciation to **Conf. dr. ing. Roxana Rusu-Both** for her exceptional mentorship, continuous inspiration, and dedicated academic guidance. Her invaluable scientific insights, constant encouragement, and thorough reviews played a decisive role in shaping both the vision and the success of this research work.
